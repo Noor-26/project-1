@@ -18,7 +18,7 @@ body{
     color: rgb(255, 123, 0);
 }
 .box-1{
-    padding-top: 80px;
+    padding-top: 50px;
 }
 .btn{
     background-image: linear-gradient(45deg,orange,crimson);
@@ -88,6 +88,8 @@ body{
 }
 .img-2{
     width: 400px;
+    box-shadow: 0px 0px 25px black;
+    border-radius: 28px;
 }
 
 .i-box_t{
